@@ -1,51 +1,19 @@
 # 
 
-# flutter_challenge_googlemaps
+# flutter_boboUI 
 
 Use Flutter💪  to implement the UI challenge of Google Maps on [uplabs](https://www.uplabs.com/posts/google-maps-redesign-919dd0d6-0883-4378-b5b2-f77e36adb6b5) .
 
-[中文版本](README_CN.md)
-
-> Designer : [Joydeep Sengupta](https://www.uplabs.com/joydeeproni)
->
-> Uplabs : <https://www.uplabs.com/posts/google-maps-redesign-919dd0d6-0883-4378-b5b2-f77e36adb6b5>
->
-> Developer : [ditclear](https://github.com/ditclear)
-
-#### DownLoad 
-
-[demo.apk](apk/app.apk)
-
-#### Introduction
-
-| Branch                                                       | Description                                                  |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [master](<https://github.com/flutter-ui-challenges/flutter_challenge_googlemaps>) | use `setState` to notify UI update                           |
-| [provide](https://github.com/flutter-ui-challenges/flutter_challenge_googlemaps/tree/provide) | use  [flutter-provide](https://github.com/google/flutter-provide) to notify UI update |
-| [desktop](https://github.com/flutter-ui-challenges/flutter_challenge_googlemaps/tree/desktop) | use [go-flutter](https://github.com/go-flutter-desktop/go-flutter) to implement UI on Desktop |
-
-### Challenge 
-
-![](ui/all.png)
+(README_CN.md)
 
 
+> Developer : [ditclear](https://github.com/joshua56)
 
-![](ui/attachment.gif)
-
-
-
-![](ui/preview.gif)
-
-
-
-#### 不用客气，buy Me a Lunch ~
-
-[sponsor](https://github.com/flutter-ui-challenges/JoinUs/blob/master/sponsor.md)
 
 ### License
 
 ```
-Copyright 2019 ditclear
+Copyright 2019 
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
