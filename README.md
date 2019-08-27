@@ -7,7 +7,7 @@ Use Flutter💪  to implement the UI challenge of Google Maps.
 (README_CN.md)
 
 
-> Developer : [ditclear](https://github.com/joshua56)
+> Developer : [Joshua chirchir](https://github.com/joshua56)
 
 
 ### License
